@@ -4,7 +4,7 @@ I'm **Ismael Esteban Aravena Ruiz**, a Computer Engineer with knowledge in **Fro
 
 ## 📚 Certifications:
 - **COURSERA: [Meta Front-End Developer Certificate](https://www.credly.com/badges/a6a1ef10-69d2-41ac-a06c-78310675eb57/linked_in_profile)**
-- **CODERHOUSE: React Front-End Development Career**
+- **CODERHOUSE: [React Front-End Development Career](https://pub.coderhouse.com/legacy-certificates/6732ec9ba76b2f458004d909)**
 
 ## 🚀 My Goal
 I'm focused on learning and improving my technical skills in Front-End development, with a particular emphasis on **React**. Additionally, I've worked on **personal projects** that have allowed me to apply my knowledge and develop innovative solutions.
